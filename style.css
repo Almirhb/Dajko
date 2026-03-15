@@ -261,7 +261,7 @@ transition: var(--transition);
   }
 
   .hero {
-    padding: 40px 20px;
+    padding: 140px 20px 40px 20px;
   }
 
   .hero-stats {
