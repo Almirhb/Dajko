@@ -1,1 +1,1 @@
-Repository i një faqeje profesionale për kompani landscaping, duke përfshirë seksionet: Hero, Services, Features dhe Projects. Përmban HTML, CSS modern me dizajn responsiv, efekt hover për shërbime dhe projekte, si dhe strukturë të qartë për shtimin e shërbimeve dhe projekteve të reja. Projekt i optimizuar për performancë dhe estetikë premium.”
+
