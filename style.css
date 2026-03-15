@@ -90,20 +90,7 @@ transition: var(--transition);
 .nav-menu a.active::after {
 width: 100%;
 }
- .nav-menu {
-    position: fixed;
-    top: 0;
-    right: -100%;         /* t */
-    height: 100%;
-    width: 70%;
-    flex-direction: column;
-    padding-top: 80px;    /*  */
-    gap: 20px;
-    background: var(--white);
-    transition: right 0.3s ease;
-    box-shadow: -5px 0 30px rgba(0,0,0,0.1);
-  }
-  .nav-menu.active {
+ .nav-menu.active {
     right: 0;             /* display hamb */
   }
 }
